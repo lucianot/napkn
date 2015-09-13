@@ -17,6 +17,10 @@ a:hover {
 	color: #DADCCB;
 }
 
+.main {
+	position: relative;
+}
+
 .logo { 
   display: block;
   margin-left: auto;
@@ -24,6 +28,7 @@ a:hover {
 }
 
 .icon {
-  text-align: center;
-  margin-top: 220px;
+  position: fixed;
+  bottom: 10%;
+  left: 50%;
 }
